@@ -1,0 +1,122 @@
+"data": [
+        {
+            "id": "1825",
+            "entityid": "Test Customer 0001 Sdn Bhd",
+            "companyname": "Test Customer 0001 Sdn Bhd",
+            "phone": "+60123456789",
+            "email": "zeeswee.cheong@ilearn.com.my",
+            "isinactive": false,
+            "billaddress": {
+                "billaddr1": "88-B, SS21/39",
+                "billaddr2": "Damansara Utama",
+                "billaddr3": "",
+                "billcity": "Petaling Jaya",
+                "billcountry": "MY",
+                "billstate": "Selangor",
+                "billzip": "47400"
+            },
+            "salesrep": "",
+            "currency": "1",
+            "currencytext": "MYR",
+            "subsidiary": "1",
+            "subsidiarytext": "Parent Company",
+            "entitystatus": "13",
+            "entitystatustext": "CUSTOMER-Closed Won"
+        },
+        {
+            "id": "1282",
+            "entityid": "CItychemo Manufacturing Sdn. Bhd.",
+            "companyname": "CItychemo Manufacturing Sdn. Bhd.",
+            "phone": "",
+            "email": "",
+            "isinactive": false,
+            "billaddress": {
+                "billaddr1": "3, No.2, Jalan PJU 1A/7, Ara Damansara,",
+                "billaddr2": "",
+                "billaddr3": "",
+                "billcity": "Petaling Jaya",
+                "billcountry": "MY",
+                "billstate": "SELANGOR",
+                "billzip": "47301"
+            },
+            "salesrep": "",
+            "currency": "1",
+            "currencytext": "MYR",
+            "subsidiary": "1",
+            "subsidiarytext": "Parent Company",
+            "entitystatus": "13",
+            "entitystatustext": "CUSTOMER-Closed Won"
+        },
+        {
+            "id": "1281",
+            "entityid": "Marco Corporation (M) Sdn. Bhd.",
+            "companyname": "Marco Corporation (M) Sdn. Bhd.",
+            "phone": "",
+            "email": "",
+            "isinactive": false,
+            "billaddress": {
+                "billaddr1": "25th Floor, Menara JKG, No.282, Jalan Raja Laut",
+                "billaddr2": "",
+                "billaddr3": "",
+                "billcity": "",
+                "billcountry": "MY",
+                "billstate": "Kuala Lumpur",
+                "billzip": ""
+            },
+            "salesrep": "",
+            "currency": "1",
+            "currencytext": "MYR",
+            "subsidiary": "1",
+            "subsidiarytext": "Parent Company",
+            "entitystatus": "13",
+            "entitystatustext": "CUSTOMER-Closed Won"
+        },
+        {
+            "id": "1280",
+            "entityid": "Department of Biological Sciences, School of Medical And Life Sciences",
+            "companyname": "Department of Biological Sciences, School of Medical And Life Sciences",
+            "phone": "+60374918622",
+            "email": "",
+            "isinactive": false,
+            "billaddress": {
+                "billaddr1": "Sunway University, 5, Jalan University , Bandar Sunway",
+                "billaddr2": "",
+                "billaddr3": "",
+                "billcity": "",
+                "billcountry": "MY",
+                "billstate": "Selangor",
+                "billzip": "47500"
+            },
+            "salesrep": "",
+            "currency": "1",
+            "currencytext": "MYR",
+            "subsidiary": "1",
+            "subsidiarytext": "Parent Company",
+            "entitystatus": "13",
+            "entitystatustext": "CUSTOMER-Closed Won"
+        },
+        {
+            "id": "1279",
+            "entityid": "GLOBAL BEST UNITED (M) SDN BHD",
+            "companyname": "GLOBAL BEST UNITED (M) SDN BHD",
+            "phone": "+60166153652",
+            "email": "admin@gbutd.my",
+            "isinactive": false,
+            "billaddress": {
+                "billaddr1": "WISMA TRIO, JALAN BP 4/2,BANDAR BUKIT PUCHONG",
+                "billaddr2": "",
+                "billaddr3": "",
+                "billcity": "PUCHONG",
+                "billcountry": "MY",
+                "billstate": "SELANGOR",
+                "billzip": "47100"
+            },
+            "salesrep": "",
+            "currency": "1",
+            "currencytext": "MYR",
+            "subsidiary": "1",
+            "subsidiarytext": "Parent Company",
+            "entitystatus": "13",
+            "entitystatustext": "CUSTOMER-Closed Won"
+        }
+    ]
