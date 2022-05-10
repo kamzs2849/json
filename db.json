@@ -1,4 +1,5 @@
-"data": [
+{
+        "data": [
         {
             "id": "1825",
             "entityid": "Test Customer 0001 Sdn Bhd",
@@ -120,3 +121,4 @@
             "entitystatustext": "CUSTOMER-Closed Won"
         }
     ]
+}
